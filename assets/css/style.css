@@ -128,6 +128,22 @@ h1 {
   padding: 1em;
   margin-bottom: 2em;
   }***********/
+
+/******Connect Page******/
+.btn {
+background-color: #4aaaa5;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin-top: 1em;
+border-radius: 10%;
+}
+
+
 /******Side Bar******/
 .connect-box{
   background-color: #ffffff;
