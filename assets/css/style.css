@@ -8,48 +8,10 @@ body {
   margin: 0;
 }
 
-/******Header******
-.main-header{
-  background-color: #ffffff;
-  border: 1px solid #cccccc;
-  font-family: 'Georgia', Times, Times New Roman, serif;
-  color: #777777;
-  width: 100%;
-  max-height: 80px;
-  border-bottom: 3px solid #777;
-}
-
-.name {
-  float: left;
-  margin-left: 3.5em;
-  color: #fff;
-  background-color: #4aaaa5;
-  margin-bottom: 0;
-  padding: .75em;
-}
-
-.main-nav {
-  float: right;
-  padding-right: 4em;
-}
-
-.main-nav li {
-  float: left;
-  padding-right: 2em;
-  list-style-type: none;
-  margin-top: 1.75em;
-}
-
-.main-nav a {
-  text-decoration: none;
-  color: #777;
-  border-right: 1px solid #777;
-  padding-right: 1em;
-}
-
-.main-nav a:hover {
+/******Header******/
+#myNavbar a:hover {
   color: #4aaaa5;
-}***********/
+}
 
 /******Main Content******/
 h1 {
