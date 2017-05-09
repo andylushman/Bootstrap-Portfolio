@@ -53,8 +53,8 @@ h1 {
   font-family: 'Georgia', Times, Times New Roman, serif;
   font-size: 1.2em;
   top: 128px;
-  left: 16px;
-  width: 11em;
+  left: 14px;
+  width: 14.9em;
   text-align: center;
   }
 
@@ -65,9 +65,9 @@ h1 {
   color: #fff;
   font-family: 'Georgia', Times, Times New Roman, serif;
   font-size: 1.2em;
-  top: 353px;
-  left: 427px;
-  width: 11em;
+  top: 458px;
+  left: 142px;
+  width: 14.9em;
   text-align: center;
   }
 
@@ -78,9 +78,9 @@ h1 {
   color: #fff;
   font-family: 'Georgia', Times, Times New Roman, serif;
   font-size: 1.2em;
-  top: 590px;
-  left: 145px;
-  width: 11em;
+  top: 694px;
+  left: 142px;
+  width: 14.9em;
   text-align: center;
   }
 
@@ -91,9 +91,9 @@ h1 {
   color: #fff;
   font-family: 'Georgia', Times, Times New Roman, serif;
   font-size: 1.2em;
-  top: 590px;
-  left: 427px;
-  width: 11em;
+  top: 924px;
+  left: 142px;
+  width: 14.9em;
   text-align: center;
   }
 
@@ -104,9 +104,9 @@ h1 {
   color: #fff;
   font-family: 'Georgia', Times, Times New Roman, serif;
   font-size: 1.2em;
-  top: 825px;
-  left: 145px;
-  width: 11em;
+  top: 1153px;
+  left: 142px;
+  width: 14.9em;
   text-align: center;
   }
 
@@ -114,17 +114,16 @@ h1 {
   width: 250px;
   height: 190px;
   margin: 1.5em 1em;
-  float: left;
+  /*float: left;*/
   }
 
 .main-port {
   background-color: #ffffff;
   border: 1px solid #dddddd;
   color: #777777;
-  width: 36em;
+  /*width: 36em;*/
   margin-left: 7em;
   overflow: auto;
-  float: left;
   padding: 1em;
   margin-bottom: 2em;
   }
