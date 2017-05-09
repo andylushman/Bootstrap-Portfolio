@@ -13,6 +13,12 @@ body {
   color: #4aaaa5;
 }
 
+.navbar {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-bottom: 3px solid #777;
+}
+
 /******Main Content******/
 h1 {
   color: #4aaaa5;
@@ -40,9 +46,13 @@ h1 {
 
 
 /******Portfolio Images******/
-.img-div {
+.img-div,
+.img-div2,
+.img-div3,
+.img-div4,
+.img-div5 {
   position: relative;
-  width: 100%;
+  float: left;
   }
 
 .img-div h2 {
@@ -56,6 +66,7 @@ h1 {
   left: 14px;
   width: 14.9em;
   text-align: center;
+  z-index: 1;
   }
 
 .img-div2 h2 {
@@ -65,10 +76,11 @@ h1 {
   color: #fff;
   font-family: 'Georgia', Times, Times New Roman, serif;
   font-size: 1.2em;
-  top: 458px;
-  left: 142px;
+  top: 129px;
+  left: 14px;
   width: 14.9em;
   text-align: center;
+  z-index: 1
   }
 
 .img-div3 h2 {
@@ -78,10 +90,11 @@ h1 {
   color: #fff;
   font-family: 'Georgia', Times, Times New Roman, serif;
   font-size: 1.2em;
-  top: 694px;
-  left: 142px;
+  top: 129px;
+  left: 14px;
   width: 14.9em;
   text-align: center;
+  z-index: 1
   }
 
 .img-div4 h2 {
@@ -91,10 +104,11 @@ h1 {
   color: #fff;
   font-family: 'Georgia', Times, Times New Roman, serif;
   font-size: 1.2em;
-  top: 924px;
-  left: 142px;
+  top: 129px;
+  left: 14px;
   width: 14.9em;
   text-align: center;
+  z-index: 1
   }
 
 .img-div5 h2 {
@@ -104,25 +118,24 @@ h1 {
   color: #fff;
   font-family: 'Georgia', Times, Times New Roman, serif;
   font-size: 1.2em;
-  top: 1153px;
-  left: 142px;
+  top: 129px;
+  left: 14px;
   width: 14.9em;
   text-align: center;
+  z-index: 1
   }
 
 .port-img {
   width: 250px;
   height: 190px;
   margin: 1.5em 1em;
-  /*float: left;*/
+  position: relative;
   }
 
 .main-port {
   background-color: #ffffff;
   border: 1px solid #dddddd;
   color: #777777;
-  /*width: 36em;*/
-  margin-left: 7em;
   overflow: auto;
   padding: 1em;
   margin-bottom: 2em;
